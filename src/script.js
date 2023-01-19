@@ -1,4 +1,7 @@
 let playlist = [ {
+  'title': 'Taylor Swift - Long Live',
+  'audio': "assets/Taylor Swift - Long Live.mp3",
+}, {
   'title': 'Sophie Powers x DEWAYNE - Greed',
   'audio': "assets/Sophie Powers x DE'WAYNE - Greed.mp3",
 }, {
